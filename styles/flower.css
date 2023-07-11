@@ -1,0 +1,202 @@
+/* header */
+.banner{
+    display: flex;
+    background-color: #E554731A;
+    padding: 50px 130px 0px 130px;
+    gap: 10px;
+}
+
+   
+.heading-title{
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 0px;
+}
+
+.paragraph{
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 32px ;
+margin-bottom: 0px;
+}
+.btn-primary{
+padding: 20px 43px;
+border-radius: 8px;
+background: #E55473;
+color: white;
+border: none;
+margin-top: 32px;
+}
+
+/* Main */
+
+.main-h3{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 0px;
+}
+.main-paragraph{
+text-align: center;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+}
+.flower-banner{
+    display: flex;
+   
+    justify-content:space-between;
+   
+}
+.flower1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.img-f1{
+    text-align: center;
+}
+.flower2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.flower3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.title-h3{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+   
+}
+.title-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.banner2{
+    justify-content: space-between;
+    display: flex;
+    padding: 100px 200px 100px 200px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+}
+.hot-deal{
+    
+    text-align: center;
+}
+.title-h3{
+    margin-bottom: 0px;
+    margin-top: 150px;
+    text-align: center;
+}
+.title-p{
+    margin-top: 24px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 0px 70px 0px 70px;
+}
+.off{
+    color: #E55473;
+}
+.flower{
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+margin-bottom: 0px;
+height: 450px;
+width: 420px;
+text-align: center;
+gap: 10px;
+}
+#i2{
+    background-color: lightgray;
+}
+#i3{
+    background-color: #477D1126;
+}
+.img-f1{
+    width: 280px;
+    height: 350px;
+    margin-top: 100px;
+}
+.flower-section{
+    padding: 0px 100px;
+}
+.flower-banner{
+    display: flex;
+    justify-content: space-between;
+}
+.f-p{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+
+.instagram{
+    text-align: center;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 0px;
+}
+.instagram-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+padding: 0px 380px;
+}
+.instagram-section{
+    justify-content: center;
+}
+.img-div{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+
+
