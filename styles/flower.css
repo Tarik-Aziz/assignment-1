@@ -197,6 +197,95 @@ padding: 0px 380px;
     display: flex;
     gap: 20px;
 }
+.last-section{
+    background-image: url(../images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin: 100px 35px;
+    background-size: cover;
+    padding: 100px 100px;
+    text-align: center;
+
+
+}
+.get{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 0px;
+}
+.prp{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 10px;
+}
+.text-field{
+    width: 700px;
+    padding: 18px 20px;
+
+}
+.txt-btn{
+    display:inline;
+
+}
+.footer-section{
+text-align: center;
+align-items: center;
+background-color: #111010;
+margin-top: 10px;
+width: 1922px;
+height: 449px;
+flex-shrink: 0;
+}
+.footer-h3{
+color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-right: 450px;
+padding-top: 100px;
+margin-bottom: 0px;
+
+}
+.footer-p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-right: 400px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.footer-p2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 450px;
+    margin-top: 32px;
+}
+.shop{
+    color: white;
+}
+
+
+
 
 
 
