@@ -151,6 +151,7 @@ gap: 10px;
 }
 .flower-section{
     padding: 0px 100px;
+    margin-top: 10px;
 }
 .flower-banner{
     display: flex;
@@ -283,7 +284,29 @@ margin-bottom: 0px;
 .shop{
     color: white;
 }
+.bonus{
 
+    background-image: url(../images/bonus.jpg);
+    height: 820px;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    
+    
+
+ 
+    
+}
+
+.bonus-txt{
+    
+   text-align: center;
+   font-size: 50px;
+   color: aliceblue;
+   padding-top: 300px;
+   padding-right: 500px;
+   
+    
+}
 
 
 
